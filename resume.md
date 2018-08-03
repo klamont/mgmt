@@ -37,19 +37,19 @@ Experience
     * Developed self-paced and instructor-led training materials, with a focus on reducing on-boarding time for new-hires.
 
 * **Network Engineer, Akamai NOCC (2007 - 2012)**
- * Founding member of Akamai’s Tier 3 Engineers, who acted as specialists within the NOCC, reducing the need for external escalations.
- * Configured Cisco, HP, and Custom routers.
- * Analyzed and repaired down BGP Sessions
- * Developed automated  versions of the most effective run books, safely reducing engineer time, and allowing focus on more complex issues.
- * Programming in Perl, Python, and Bash
- * Remote monitoring and maintenance of over 200,000 machines in a Linux environment.
- * Advanced Networking, Linux, CLI, and Scripting 
+   * Founding member of Akamai’s Tier 3 Engineers, who acted as specialists within the NOCC, reducing the need for external escalations.
+   * Configured Cisco, HP, and Custom routers.
+   * Analyzed and repaired down BGP Sessions
+   * Developed automated  versions of the most effective run books, safely reducing engineer time, and allowing focus on more complex issues.
+   * Programming in Perl, Python, and Bash
+   * Remote monitoring and maintenance of over 200,000 machines in a Linux environment.
+   * Advanced Networking, Linux, CLI, and Scripting 
 
 
 #### Au Bon Pain - 2005-2007
 * IT Specialist
- * Converted Dos/CSV database to SQL
- * 2nd shift help desk rotation
- * Lead initiative to secure practices for remote access to remote POS terminals
+   * Converted Dos/CSV database to SQL
+   * 2nd shift help desk rotation
+   * Lead initiative to secure practices for remote access to remote POS terminals
 
 
