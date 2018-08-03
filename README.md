@@ -23,6 +23,7 @@ I expect everyone on my team to try, always.  I also expect people to recognize 
  - Seeing my team come up with inventive solutions to problems that have been pain points for too long.
  - Being able to publicly recognize my team for having completed a project.
  - Learning something new, especially when it comes from an unexpected source.
+ - Using the Oxford comma.
 
  ## What makes me grumpy
 
