@@ -23,7 +23,7 @@ With 15 years of experience in high-tech work, I have developed the skills neede
 
 Experience
 ------------
-####Akamai Technologies - 2007-Present
+#### Akamai Technologies - 2007-Present
 * **Manager, Platform Operations (2015 - Present)**
     * Represented Platform Operations on cross-departmental teams focused on Delivery, Planning, and Performance.  Projects included next-generation scoring algorithms, deployment of multi-factor authentication, and development of new tools (both internal and external).  
     * Reorganized staffing levels within the NOCC, in order to drive cost reduction, reduce response times, and align Engineers across shifts with common responsibilities.
@@ -46,7 +46,7 @@ Experience
  * Advanced Networking, Linux, CLI, and Scripting 
 
 
-####Au Bon Pain - 2005-2007
+#### Au Bon Pain - 2005-2007
 * IT Specialist
  * Converted Dos/CSV database to SQL
  * 2nd shift help desk rotation
