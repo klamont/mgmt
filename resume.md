@@ -1,10 +1,11 @@
 Kevin Lamont
 ============
 
--------------------     ----------------------------
-177 Spring Ave                 kevinlamont@gmail.com
-Arlington, MA 02476               github.com/klamont
--------------------     ----------------------------
+177 Spring Ave  
+Arlington, MA 02476  
+(781)307-1120  
+kevinlamont@gmail.com  
+[https://github.com/klamont](https://github.com/klamont)
 
 Education
 ---------
@@ -24,22 +25,22 @@ Experience
 ------------
 ####Akamai Technologies - 2007-Present
 * **Manager, Platform Operations (2015 - Present)**
-  * Represented Platform Operations on cross-departmental teams focused on Delivery, Planning, and Performance.  Projects included next-generation Scoring algorithms, deployment of multi-factor authentication, and development of new tools (both internal and external).  
-  * Reorganized staffing levels within the NOCC, in order to drive cost reduction, reduce response times, and align Engineers across shifts with common responsibilities.
-  * Led high-level tours of Akamai’s NOCC, and deep-dives into operational effectiveness.  Audiences spanned school groups, industry professionals, potential and current customers, national political figures, and one king.
-  * Designed dashboards in Python, Django, Ruby, and pure HTML
+    * Represented Platform Operations on cross-departmental teams focused on Delivery, Planning, and Performance.  Projects included next-generation scoring algorithms, deployment of multi-factor authentication, and development of new tools (both internal and external).  
+    * Reorganized staffing levels within the NOCC, in order to drive cost reduction, reduce response times, and align Engineers across shifts with common responsibilities.
+    * Led high-level tours of Akamai’s NOCC, and deep-dives into operational effectiveness.  Audiences spanned school groups, industry professionals, potential and current customers, national political figures, and one king.
+    * Designed dashboards in Python, Django, Ruby, and pure HTML
 
 * **Shift Manager, Akamai NOCC (2012-2015)**
-  * Led Cambridge first shift as a hands-on supervisor through daily operation of the world’s largest cloud platform.
-  * Represented the NOCC on internal teams focused on efficiency, alerting, and observability.
-  * Defined & managed alerts in SQL
-  * Developed self-paced and instructor-led training materials, with a focus on reducing on-boarding time for new-hires.
+    * Led Cambridge first shift as a hands-on supervisor through daily operation of the world’s largest cloud platform.
+    * Represented the NOCC on internal teams focused on efficiency, alerting, and observability.
+    * Defined & managed alerts in SQL
+    * Developed self-paced and instructor-led training materials, with a focus on reducing on-boarding time for new-hires.
 
 * **Network Engineer, Akamai NOCC (2007 - 2012)**
  * Founding member of Akamai’s Tier 3 Engineers, who acted as specialists within the NOCC, reducing the need for external escalations.
  * Configured Cisco, HP, and Custom routers.
  * Analyzed and repaired down BGP Sessions
- * Developed automated  versions of the most effective runbooks, safely reducing engineer time, and allowing focus on more complex issues.
+ * Developed automated  versions of the most effective run books, safely reducing engineer time, and allowing focus on more complex issues.
  * Programming in Perl, Python, and Bash
  * Remote monitoring and maintenance of over 200,000 machines in a Linux environment.
  * Advanced Networking, Linux, CLI, and Scripting 
