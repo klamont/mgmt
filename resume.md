@@ -11,15 +11,15 @@ kevinlamont@gmail.com
 About Me
 ----------
 
-With 15 years of experience in high-tech work, I have developed the skills needed to lead diverse teams of engineers, while maintaining the highest standard of operational excellence.  I drive performance by defining effective and grounded KPIs, focusing my energy primarily on efficiency, cost, and service level.  I have strong opinions loosely held, and value a willingness to defend decisions based on data and experience. I promise to always treat people with respect, and to maintain a safe, productive atmosphere for my team.
+With 15 years of experience in high-tech work, I have developed the skills needed to lead diverse teams of engineers, while maintaining the highest standard of operational excellence.  I drive performance by defining effective and grounded KPIs, focusing my energy primarily on efficiency, cost, and service level.  I have Strong Opinions, Weakly Held, and value a willingness to defend decisions based on data and experience. I promise to always treat people with respect, and to maintain a safe, productive atmosphere for my team.
 
 
 Experience
 ------------
 #### Akamai Technologies - 2007-Present
 * **Manager, Platform Operations (2015 - Present)**
-    * Led a team of 30 Engineers in a 24x7x365 operations environment, including Performance Management, Scheduling, Career Evaluation, and Mentoring.
-    * Developed and automated reports on ticket/phone queue status.
+    * Lead a team of 30 Engineers in a 24x7x365 operations environment, including Performance Management, Scheduling, Career Evaluation, and Mentoring.
+    * Developed and automated reporting on ticket/phone queue status.
     * Represented Platform Operations on cross-departmental teams focused on Delivery, Planning, and Performance.  Projects included next-generation scoring algorithms, deployment of multi-factor authentication, and development of new tools (both internal and external).  
     * Reorganized staffing levels within the NOCC, in order to drive cost reduction, reduce response times, and align Engineers across shifts with common responsibilities.
     * Led high-level tours of Akamai’s NOCC, and deep-dives into operational effectiveness.  Audiences spanned school groups, industry professionals, potential and current customers, national political figures, and one king.
@@ -37,7 +37,7 @@ Experience
    * Analyzed and repaired down BGP Sessions.
    * Developed automated  versions of the most effective run books, safely reducing engineer time, and allowing focus on more complex issues.
    * Increased procedure efficiency through programming in Perl, Python, and Bash.
-   * Remote monitoring and maintenance of over 200,000 machines in a Linux environment.
+   * Remote monitoring and maintenance of over 200,000 remote servers in a Linux environment.
    * Advanced Networking, Linux, CLI, and Scripting 
 
 
@@ -45,18 +45,19 @@ Experience
 * **IT Specialist**
    * Converted DOS/CSV database to SQL
    * Fullfilled 2nd shift help desk rotation
-   * Lead initiative to secure practices for remote access to remote POS terminals
+   * Lead initiative to secure practices for remote access to POS terminals in the field
 
 Skills
 -----------
-TOOLS: Python, SQL, Git, Linux, Django, Ruby, Networking 
-Certs: CompTIA A+, Network+
+**TOOLS:** Python, SQL, Git, Linux, Networking 
+**Certs:** CompTIA A+, Network+
 
 Education
 ---------
 
 2004-2007
 :  **UMass Boston**, Computer Science
+:  80 credits completed towards BS CompSci
 
 2017 - Present
 :  **Western Governor's University**, Network Operations & Security
