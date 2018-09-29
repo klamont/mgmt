@@ -7,19 +7,12 @@ Arlington, MA 02476
 kevinlamont@gmail.com  
 [https://github.com/klamont](https://github.com/klamont)
 
-Education
----------
-
-2004-2007
-:  **UMass Boston**, Computer Science
-
-2017 - Present
-:  **Western Governor's University**, Network Operations & Security
 
 About Me
 ----------
 
-With 15 years of experience in high-tech work, I have developed the skills needed to lead diverse teams of engineers, while maintaining the highest standard of operational excellence.  I drive performance by defining effective and grounded KPIs, focusing my energy primarily on efficiency, cost, and service level.  I have strong opinions loosely held, and value a willingness to defend decisions based on data and experience. I promise to always treat people with respect, and to maintain a safe, productive atmosphere.
+With 15 years of experience in high-tech work, I have developed the skills needed to lead diverse teams of engineers, while maintaining the highest standard of operational excellence.  I drive performance by defining effective and grounded KPIs, focusing my energy primarily on efficiency, cost, and service level.  I have strong opinions loosely held, and value a willingness to defend decisions based on data and experience. I promise to always treat people with respect, and to maintain a safe, productive atmosphere for my team.
+
 
 Experience
 ------------
@@ -49,9 +42,21 @@ Experience
 
 
 #### Au Bon Pain - 2005-2007
-* IT Specialist
+* **IT Specialist**
    * Converted DOS/CSV database to SQL
    * Fullfilled 2nd shift help desk rotation
    * Lead initiative to secure practices for remote access to remote POS terminals
 
+Skills
+-----------
+TOOLS: Python, SQL, Git, Linux, Django, Ruby, Networking 
+Certs: CompTIA A+, Network+
 
+Education
+---------
+
+2004-2007
+:  **UMass Boston**, Computer Science
+
+2017 - Present
+:  **Western Governor's University**, Network Operations & Security
