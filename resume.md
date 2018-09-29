@@ -57,7 +57,7 @@ Education
 
 2004-2007
 :  **UMass Boston**, Computer Science
-:  80 credits completed towards BS CompSci
+... 80 credits completed towards BS CompSci
 
 2017 - Present
 :  **Western Governor's University**, Network Operations & Security
