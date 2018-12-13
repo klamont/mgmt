@@ -61,4 +61,4 @@ Education
    80 credits completed towards BS CompSci
 
 2017 - Present
-:  **Western Governor's University**, Network Operations & Security
+:  **Western Governor's University**, Information Technology Management
